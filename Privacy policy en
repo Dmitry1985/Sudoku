@@ -1,1 +1,90 @@
+Privacy Policy for the Mobile Application “Sudoku”
 
+1. General Provisions
+
+1.1. This document (hereinafter referred to as the Policy) defines the operator’s policy regarding the processing of information collected during the use of the mobile application “Sudoku” (hereinafter referred to as the Application).
+
+1.2. The developer of the Application is Dremin Dmitry (hereinafter referred to as the Developer).
+
+1.3. Use of the Application constitutes the user’s unconditional acceptance of the terms of this Policy. If the user does not agree with the terms, they must stop using the Application.
+
+1.4. The Developer does not collect or process users’ personal data. All information obtained during the operation of the Application is processed in an anonymized form using built-in third-party software development kits (SDKs).
+
+2. Legal Grounds and Purposes of Information Processing
+
+2.1. The legal basis for processing information is the user’s consent expressed by installing and using the Application.
+
+2.2. Anonymized user data is processed for the following purposes:
+
+Ensuring the stability, security, and proper functioning of the Application;
+
+Displaying advertising materials based on user preferences;
+
+Analyzing user experience and improving the functionality and interface of the Application;
+
+Collecting usage statistics and diagnosing technical failures.
+
+3. Categories of Processed Information
+
+3.1. The Developer does not directly collect, store, or process the user’s personal data (data that can directly or indirectly identify a person).
+
+3.2. The Application integrates third-party SDKs (software libraries) that may automatically collect anonymized technical information. The list of such SDKs includes:
+
+Yandex Ads SDK (advertising network).
+
+3.3. The following information may be processed through these SDKs (which is not considered personal data in the context of direct identification):
+
+Device technical characteristics: model, brand, OS version, memory size, screen resolution;
+
+Advertising identifiers;
+
+Activity data: frequency and duration of sessions, actions performed in the Application, crash and performance data.
+
+4. Procedure and Conditions for Processing and Transferring Information
+
+4.1. Information processing is carried out using automated means.
+
+4.2. Information collected by the SDK is transferred to and processed by third parties — Yandex LLC (hereinafter referred to as Yandex) — in accordance with their privacy policies.
+
+4.3. The Developer does not transfer information to third parties except in cases provided for in this Policy (sections 3.2 and 4.2), as well as when required by the applicable legislation of the Russian Federation.
+
+4.4. The Application does not perform:
+
+Collection or transfer of data that can identify a person (full name, address, document data);
+
+Collection or transfer of contact information (phone numbers, email addresses);
+
+Collection or transfer of authorization data (logins, passwords);
+
+Collection of the user’s location data.
+
+4.5. To learn more about how third-party services process data, users should refer to Yandex’s official documents:
+
+Yandex Privacy Policy:
+https://yandex.ru/legal/confidential/
+
+5. User Rights and Withdrawal of Consent
+
+5.1. The user has the right to opt out of personalized advertising by changing Android device settings (section “Ads” or “Privacy” → “Opt out of Ads Personalization”).
+
+5.2. Deleting the Application from the user’s device results in the termination of information processing.
+
+5.3. The Developer cannot identify a specific user based on anonymized data collected by third-party SDKs and does not have the technical ability to process requests for deletion of specific user data from Yandex systems. To exercise the right to delete or restrict the processing of data transferred to Yandex, users must contact the operator of the relevant service (Yandex) directly using the methods specified in Yandex’s privacy policy.
+
+6. Information Protection
+
+6.1. The Developer takes the necessary organizational and technical measures to protect information from unauthorized access, destruction, modification, or distribution to the extent that depends on the Developer (maintaining up-to-date versions of the Application and monitoring connected libraries).
+
+6.2. Data transfer from the user’s device to third-party services is carried out using standard encryption protocols provided by the SDK developers.
+
+7. Changes to the Privacy Policy
+
+7.1. The Developer reserves the right to make changes to this Policy. The new version of the Policy becomes effective from the moment it is published in the Application unless otherwise specified in the new version.
+
+7.2. Continued use of the Application after changes are made constitutes the user’s acceptance of the updated Policy.
+
+8. Final Provisions
+
+8.1. This Policy is governed in accordance with the legislation of the Russian Federation.
+
+8.2. The current version of the Policy is always available in the Application.
